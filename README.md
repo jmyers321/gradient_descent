@@ -1,2 +1,2 @@
 # gradient_descent
-!(gradient_descent.png)
+![](gradient_descent.png)
